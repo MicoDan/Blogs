@@ -140,9 +140,7 @@ If you press allow, you will see the following result.
 
 ![ss](https://i.imgur.com/z7MQSko.png)
 
-_You can find the complete code in this Github repository._ 👇
 
-[**amandeepmittal/findCoordsApp**](https://github.com/amandeepmittal/findCoordsApp)
 
 If you want to learn more about working with Geolocation API in a React Native application, please go through the [**official documentation**](https://facebook.github.io/react-native/docs/geolocation)**.**
 

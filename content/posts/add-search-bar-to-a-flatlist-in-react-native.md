@@ -444,4 +444,3 @@ This brings an end to this current tutorial. The screen implemented in this demo
 
 We use UI Kitten for our latest template libraries. Find more about how to create custom screens like this from our open source project [here](https://github.com/crowdbotics/blueprint-react-native-contacts-screen).
 
-You can also find the source code from this tutorial at this [Github repo](https://github.com/amandeepmittal/searchableFlatListDemo).

@@ -4,7 +4,7 @@ date: '2022-08-04'
 thumbnail: '/thumbnails/react.png'
 slug: 'add-opacity-to-pressable-component-react-native'
 tag: 'react-native'
-canonicalUrl: 'https://amanhimself.dev/blog/add-opacity-to-pressable-component-react-native/'
+canonicalUrl: 'https://danblogs.vercel.app/blog/add-opacity-to-pressable-component-react-native/'
 ---
 
 Pressable component was introduced in 2020 as a core component wrapper that can be used instead of existing touchable components in React Native. These touchable components are TouchableOpacity, TouchableHighlight, and TouchableWithoutFeedback. These components include styles and effects that sometimes do not meet the desired outcome on individual platforms (Android and iOS).
@@ -43,7 +43,7 @@ So far, it accepts only two props:
 - `children` that is used to add a label on the button (using like a `Text` component from React Native)
 - `...otherProps` is used to pass down all the props to the underlying Pressable component.
 
-In this case, since the wrapper component, you are creating will only be responsible for handling opacity, other important props like `onPress` are left to be handled where this wrapper component is used. I have to use the [Touch indicator on an iOS simulator](https://amanhimself.dev/blog/show-touch-indicator-on-ios-simulator/) to show that the button is pressed.
+In this case, since the wrapper component, you are creating will only be responsible for handling opacity, other important props like `onPress` are left to be handled where this wrapper component is used. I have to use the [Touch indicator on an iOS simulator](https://danblogs.vercel.app/blog/show-touch-indicator-on-ios-simulator/) to show that the button is pressed.
 
 ## Using the wrapper component
 

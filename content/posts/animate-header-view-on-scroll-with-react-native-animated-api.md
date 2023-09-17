@@ -13,7 +13,7 @@ The [Animated](https://reactnative.dev/docs/animated.html) library from React Na
 
 In this tutorial, let's explore a way to create a header view component that animates on the scroll position of the `ScrollView` component from React Native. We will go through the basics of creating a new Animated value as well as explaining the significance of functions and properties like `interpolation`, `extrapolate`, `contentOffset`, and so on.
 
-[The source code is available at GitHub](https://github.com/amandeepmittal/react-native-examples/tree/master/animate-header-on-scroll).
+[The source code is available at GitHub](https://github.com/MicoDan/react-native-examples/tree/master/animate-header-on-scroll).
 
 ## Prerequisites
 

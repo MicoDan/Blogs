@@ -4,7 +4,7 @@ date: '2020-09-01'
 slug: 'add-environment-variables-in-netlify-deployment'
 thumbnail: '/thumbnails/netlify.png'
 tag: 'nodejs'
-canonicalUrl: 'https://amanhimsefl.dev/blog/add-environment-variables-in-netlify-deployment/'
+canonicalUrl: 'https://danblogs.vercel.app/blog/add-environment-variables-in-netlify-deployment/'
 ---
 
 ![cover_image](https://i.imgur.com/SX2uERE.png)
@@ -15,7 +15,7 @@ To not write every CSS element from scratch for responsive design, I am using [C
 
 ## The idea for the post
 
-The idea of the post came from a problem of my own. Since I am a fan of minimal effort, this blog has been running from a [GitHub repository](https://github.com/amandeepmittal/amanhimself.dev) deployed with [Netlify](https://www.netlify.com/).
+The idea of the post came from a problem of my own. Since I am a fan of minimal effort, this blog has been running from a [GitHub repository](https://github.com/MicoDan) deployed with [Vercel](https://vercel.com/).
 
 There are many advantages to this bare infrastructure such as free HTTPS certificate, using a custom domain, and so on. This way, Netlify manages continuous deployment runs the build command from a Gatsby or a Next.js rendered site. It also triggers a deployment whenever there is a new commit pushed in the GitHub repository.
 
