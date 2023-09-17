@@ -1,0 +1,55 @@
+{
+  "name": "amanhimself-blog-migration",
+  "description": "Personal website running on Next.js and Chakra UI.",
+  "version": "9.9.33",
+  "author": "Aman Mittal <amandeepmittal@live.com>",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "dayjs": "^1.10.7",
+    "fathom-client": "^3.4.1",
+    "feed": "^4.2.2",
+    "framer-motion": "^5.5.5",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "image-size": "^1.0.0",
+    "next": "12.0.7",
+    "next-mdx-remote": "^3.0.8",
+    "plaiceholder": "^2.2.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "reading-time": "^1.5.0",
+    "sharp": "^0.28.3",
+    "slugify": "^1.6.4",
+    "unist-util-visit": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "prettier": "^2.5.1"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  },
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amandeepmittal/amanhimself.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/amanhimself.dev/issues"
+  }
+}
