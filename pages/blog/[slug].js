@@ -29,7 +29,6 @@ import {
   Tag,
   SponsorCard
 } from '../../src/components/BlogPostPage';
-import CarbonAds from '../../src/components/Carbon';
 
 export const readBlogPost = async slug => {
   const postPath = path.join(process.cwd(), './content/posts', `${slug}.md`);
@@ -119,9 +118,6 @@ const BlogPostPage = ({
             <Tag tag={tag} />
           </HStack>
         </VStack>
-        <Center>
-          <CarbonAds />
-        </Center>
         <MDXRemote {...source} components={MDXComponents} />
         {/* Sponsor - only uncomment when there is an actual sponsor */}
         {/* <SponsorCard /> */}
