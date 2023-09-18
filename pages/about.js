@@ -102,29 +102,10 @@ const AboutPage = () => {
         </Heading>
         <List spacing={4}>
           <ListItem>
-            🚀 Software engineer and maintainer at Daca (2022 -
+            🚀 Software engineer and coordinator of app deliverance at Daca (2022 -
             8/2023)
           </ListItem>
-          <ListItem>🥑 Developer Advocate at Draftbit (2021 - 2022)</ListItem>
-          <ListItem>
-            💻 📝 Contract Developer & Tech Writer
-            <List spacing={2}>
-              <ListItem>
-                Crowdbotics (Software Consultant & Technical Writer, 2018 -
-                2021)
-              </ListItem>
-              <ListItem>Logrocket (Tech Writer, 2020 - 2021)</ListItem>
-              <ListItem>
-                Heartbeat (React Native Technical Writer, 2019 - 2020)
-              </ListItem>
-              <ListItem>
-                Jscrambler (React Native Technical Writer, 2018 - Present)
-              </ListItem>
-            </List>
-          </ListItem>
-          <ListItem>
-            Node.js Developer (2016 - 2017) at Unique Touch Solution
-          </ListItem>
+          <ListItem>🥑 Full-time Fullstack JavaScript Developer and coordinator of app deliverance at MoonHoldings (2020 - 2023)</ListItem>
         </List>
         <Heading size="lg" as="h2" pt={8}>
           Speaking
