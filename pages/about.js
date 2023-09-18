@@ -13,7 +13,7 @@ import { DocumentHead, ExternalLink } from '../src/components';
 const AboutPage = () => {
   return (
     <>
-      <DocumentHead pageTitle="Aman Mittal - About" postPath="/about" />
+      <DocumentHead pageTitle="Mico Dan - About" postPath="/about" />
       <VStack spacing={3} alignItems="flex-start" w="full" as="section" pt={28}>
         <Heading size="lg" as="h1">
           About Me

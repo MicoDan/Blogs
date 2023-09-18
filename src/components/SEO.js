@@ -16,7 +16,7 @@ const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
 
   return (
     <Head>
-      <title>{pageTitle}</title>
+      <title></title>
       <link rel="icon" href="/moi.png" />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -31,7 +31,7 @@ const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
       <meta name="publisher" content={author} />
       <meta
         name="keywords"
-        content="Aman Mittal, amanhimself, blog, Node.js, React, React Native, Expo"
+        content="Mico Dan, blog, Node.js, React, React Native, Expo"
       />
 
       <meta name="robots" content="index,follow" />
