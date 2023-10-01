@@ -47,11 +47,10 @@ const Hero = () => {
             with open source technologies and writing about what I learn.
           </Text>
           <Text lineHeight="175%" as="h2" fontSize="lg">
-            I&apos;ve been writing online since 2016, mostly cross-platform
+            I&apos;ve been writing online since 2022, mostly cross-platform
             mobile development and sometimes on web. I&apos;ve written many
-            articles and tutorials for many publications and
-            organizations across the internet. Hence, I started this blog to
-            share my software development journey.
+            articles and tutorials on the internet. Hence, I started this blog
+            to share my software development journey.
           </Text>
           <ExternalLinksCloud />
         </VStack>
