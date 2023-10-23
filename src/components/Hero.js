@@ -43,7 +43,7 @@ const Hero = () => {
           </Stack>
 
           <Text lineHeight="175%" as="h2" fontSize="lg">
-            I&apos;m a software engineer and a technical writer. I love working
+            I&apos;m a FullStack Developer and a technical writer. I love working
             with open source technologies and writing about what I learn.
           </Text>
           <Text lineHeight="175%" as="h2" fontSize="lg">

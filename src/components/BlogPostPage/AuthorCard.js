@@ -50,7 +50,7 @@ const AuthorCard = () => {
             </HStack>
           </HStack>
           <Text fontSize="md" color={textMode}>
-            I&apos;m a software engineer and a technical writer. In this blog,
+            I&apos;m a FullStack Developer and a technical writer. In this blog,
             I write about Technical writing, Node.js, React Native and Expo.
           </Text>
         </VStack>

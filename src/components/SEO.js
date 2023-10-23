@@ -4,7 +4,7 @@ const siteURL = 'https://danblogs.vercel.app';
 const author = 'Mico Dan';
 const shortname = 'dan';
 const description =
-  "I'm Mico Dan. Software Engineer and Tech Writer. Welcome to my blog!";
+  "I'm Mico Dan. FullStack Developer  and Tech Writer. Welcome to my blog!";
 const socialBanner = '/card.png';
 
 const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {

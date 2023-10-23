@@ -20,7 +20,7 @@ const AboutPage = () => {
         </Heading>
         <small>Last Update: May 17, 2023</small>
         <Text lineHeight="175%" as="h2" fontSize="lg" pt={2}>
-          Hi! My name is Mico Dan. I am a software engineer,
+          Hi! My name is Mico Dan. I am a FullStack Developer,
           and a technical writer. I love working with open source technologies
           and writing most of what I learn.
         </Text>
@@ -102,7 +102,7 @@ const AboutPage = () => {
         </Heading>
         <List spacing={4}>
           <ListItem>
-            🚀 Software engineer and coordinator of app deliverance at Daca (2022 -
+            🚀 FullStack developer and coordinator of app deliverance at Daca (2022 -
             8/2023)
           </ListItem>
           <ListItem>🥑 Full-time Fullstack JavaScript Developer and coordinator of app deliverance at MoonHoldings (2020 - 2023)</ListItem>
